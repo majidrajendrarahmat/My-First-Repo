@@ -4,4 +4,4 @@ NPM     : 2106752382
 
 Kelas   : C
 
-Hobi    : Makan makanan pedas
+Hobi    : Mendengar lagu Taylor Swift
